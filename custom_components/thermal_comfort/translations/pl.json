@@ -116,6 +116,7 @@
         }
       },
       "winter_scharlau_perception": {
+        "name": "Postrzeganie temperatury według Scharlaua (zima)",
         "state": {
           "outside_calculable_range": "Poza obliczalnym zakresem",
           "comfortable": "Komfortowo",
