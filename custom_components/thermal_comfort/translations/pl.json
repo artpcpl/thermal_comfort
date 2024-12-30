@@ -138,6 +138,7 @@
         }
       },
       "thoms_discomfort_perception": {
+        "name": "Percepcja temperatury według Thomsa",
         "state": {
           "no_discomfort": "Brak dyskomfortu",
           "less_than_half": "Mniej niż połowa populacji odczuwa dyskomfort",
