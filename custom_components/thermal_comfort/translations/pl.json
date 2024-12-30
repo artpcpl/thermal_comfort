@@ -124,6 +124,9 @@
           "highly_uncomfortable": "Wysoki dyskomfort"
         }
       },
+      "summer_simmer_index": {
+        "name": "Indeks temperatury według Simmera"
+      },
       "summer_simmer_perception": {
         "name": "Postrzeganie temperatury według Simmera (lato)",
         "state": {
