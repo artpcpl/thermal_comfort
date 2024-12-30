@@ -107,6 +107,7 @@
         }
       },
       "summer_scharlau_perception": {
+        "name": "Postrzeganie temperatury według Scharlaua (lato)",
         "state": {
           "outside_calculable_range": "Poza obliczalnym zakresem",
           "comfortable": "Komfortowo",
