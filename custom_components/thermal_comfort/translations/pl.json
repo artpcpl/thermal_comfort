@@ -125,6 +125,7 @@
         }
       },
       "summer_simmer_perception": {
+        "name": "Postrzeganie temperatury według Simmera (lato)",
         "state": {
           "cool": "Zimno",
           "slightly_cool": "Chłodnawo",
